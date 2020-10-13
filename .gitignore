@@ -1,3 +1,9 @@
+*.xml.bz2
+*.DS_Store
+.idea
+nlwiki_*_geneeskunde_*.txt
+wikiextractor/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
