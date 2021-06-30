@@ -1,4 +1,5 @@
 *.xml.bz2
+*.zip
 *.DS_Store
 .idea
 nlwiki_*_geneeskunde_*.txt
